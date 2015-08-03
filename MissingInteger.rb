@@ -1,3 +1,4 @@
+#Codility
 def solution(a)
     len=a.size
     b=Array.new(len,0)
