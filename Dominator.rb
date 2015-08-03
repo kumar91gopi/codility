@@ -1,3 +1,4 @@
+#Codility
 def solution(a)
     count = 1
     dom = 0
