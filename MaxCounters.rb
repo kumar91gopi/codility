@@ -1,4 +1,6 @@
-#Not happy with the logic
+#Codility
+#Not happy with the logic because new array is created again and again. Memory cost is very much.
+#Check out MaxCounters1.rb for better solution
 
 def solution(n, a)
     max=0
