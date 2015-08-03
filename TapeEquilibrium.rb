@@ -1,3 +1,4 @@
+#Codility
 def solution(a)
     sum=0
     p=0

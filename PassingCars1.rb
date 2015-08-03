@@ -1,4 +1,5 @@
-# Better solution
+#Codility
+#Better solution
 
 def solution(a)
     zeros=0

@@ -1,3 +1,4 @@
+#Codility
 def solution(a)
    a=a.sort
    for i in 0...a.size-2

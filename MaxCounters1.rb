@@ -1,4 +1,5 @@
-# Better solution
+#Codility
+#Better solution of MaxCounters
 
 def solution(n, a)
    b=Array.new(n,0)

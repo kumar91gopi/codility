@@ -1,3 +1,4 @@
+#Codility
 def solution(a, b, k)
     if a%k==0
         a=a

@@ -1,5 +1,6 @@
+#Codility
 def solution(a)
-    min=a[0]+a[1] #any value you want for initialisation
+    min=a[0]+a[1] #any value you want for initialization
     ans=0
    
     

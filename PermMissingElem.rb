@@ -1,3 +1,4 @@
+#Codility
 def solution(a)
    sum=0
    for i in 0...a.size
