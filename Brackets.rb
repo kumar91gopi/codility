@@ -1,3 +1,4 @@
+#Codility
 def solution(s)
     len = s.size
     top= 0
