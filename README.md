@@ -28,4 +28,5 @@ List of Questions Solved
 19. [FrogJmp](https://github.com/kumar91gopi/codility/blob/master/Time%20Complexity/FrogJmp.rb)
 20. [PermMissingElem](https://github.com/kumar91gopi/codility/blob/master/Time%20Complexity/PermMissingElem.rb)
 21. [TapeEquilibrium](https://github.com/kumar91gopi/codility/blob/master/Time%20Complexity/TapeEquilibrium.rb)
+22. [MaxDoubleSliceSum](https://github.com/kumar91gopi/codility/blob/master/Maximum%20Slice%20Problem/MaxDoubleSliceSum.rb)
 
