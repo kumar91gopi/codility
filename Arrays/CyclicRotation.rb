@@ -42,7 +42,7 @@ end
 def solution(a, k)
   temp=0
   len=a.length
-  if(k>0 && len>0) #checking if array is empty and other border cases
+  if len>0  #checking if array is empty 
     if k>len         #if rotation is greater than length of array we do modulo
       k%=len
     end
@@ -63,7 +63,7 @@ def solution(a, k)
         end
         a[j]=temp
       end
- end
+  end
   return a
 end
 
@@ -72,7 +72,7 @@ end
 def gcd(x,y)
   if y==0
     return x
-  elsif (x>=y)
+  else
     return gcd(y,x%y)
   end
 end
